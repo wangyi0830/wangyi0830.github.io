@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The iching Python Package is alive now!
-date: 2023-10-07 16:11:00-0400
+title: Welcome to my club!
+date: 2025-10-01 16:16:00
 inline: false
 related_posts: false
 ---
