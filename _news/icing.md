@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to my club!
-date: 2025-10-01 16:16:00
+date: 2000-8-30 16:16:00
 inline: false
 related_posts: false
 ---
