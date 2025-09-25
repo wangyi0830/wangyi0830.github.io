@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a graduate student currently in study.
+title: a postgraduate in digital marketing major
 date: 2025-09-01 15:53:00-0400
 description: an example of a blog post with custom blockquotes
 tags: formatting blockquotes
